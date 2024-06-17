@@ -4,7 +4,7 @@ This program contains a smart contract which creates a token on a local HardHat 
 
 ## Description
 
-This program contains a simple contract named as Myether, which contains a mint function to send ethers to the provided address,  burn function to deduct that amount from the wallet and transfer function to send amount to the provided address.
+This program contains a simple contract named as MyETH, which contains a mint function to send ethers to the provided address,  burn function to deduct that amount from the wallet and transfer function to send amount to the provided address.
 
 These transactions are performed after connecting Remix IDE from MetaMask wallet using different account addresses imported from Ganache.
 
